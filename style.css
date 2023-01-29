@@ -21,7 +21,6 @@ main {
 nav {
   -webkit-backdrop-filter: blur(8px);
   backdrop-filter: blur(8px);
-  flex-direction: row;
   height: 5em;
   background-color: hsla(0, 0%, 30%, 50%);
   position: fixed;
