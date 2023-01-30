@@ -168,6 +168,12 @@ nav {
   background-color: hsl(200, 100%, 85%);
 }
 
+.buy-option-price {
+  color: #cccccc;
+  /* align-self: left; */
+  margin: 0;
+}
+
 .buy-section {
   height: 5em;
   display: flex;
